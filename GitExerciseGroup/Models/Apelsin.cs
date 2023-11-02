@@ -2,6 +2,6 @@
 {
     public class Apelsin
     {
-        public string color { get; set; }
+        public string color23 { get; set; }
     }
 }
