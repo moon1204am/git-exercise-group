@@ -4,5 +4,6 @@
     {
 
         public string  Color { get; set; }
+        public int Price { get; set; }
     }
 }
