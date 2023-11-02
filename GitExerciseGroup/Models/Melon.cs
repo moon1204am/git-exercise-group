@@ -4,7 +4,6 @@
     {
 
         public string  Color { get; set; }
-
-        public string Type { get; set; } = string.Empty;
+        public int Price { get; set; }
     }
 }
